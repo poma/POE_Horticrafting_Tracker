@@ -1,6 +1,6 @@
 
 # POE_Horticrafting_Tracker
-Will scan your stash every 30 seconds finding all Horticrafting Station's and their crafts. Will format into a file for records and a file formatted for discord trading.
+Will scan your stash every 2 minutes(increased due to POE API limits) seconds finding all Horticrafting Station's and their crafts. Will format into a file for records and a file formatted for discord trading.
 
 [Expected list of crafts](https://github.com/Corbris/POE_Horticrafting_Tracker/blob/master/REPORTS/CraftList.txt)
 
